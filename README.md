@@ -4,10 +4,10 @@ Roles:
 
 Cherepanov Ivan - Captain(Topologist#2)   
 
-Sokolov Timofey - Lieutenant(engineer Topologist)  
+Sokolov Timofey - Еngineer Topologist
 
-Moroz Pavel - circuit designer   
+Moroz Pavel - Сircuit designer   
 
-Tynyshbekova Tomiris - design engineer   
+Tynyshbekova Tomiris - Design engineer   
 
-Ilaldyn Shah-Muhammed - helper
+Ilaldyn Shah-Muhammed - Design engineer #2
